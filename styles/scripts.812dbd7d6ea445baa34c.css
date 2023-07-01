@@ -529,14 +529,14 @@ h1 {
     background: url('../images/letter-image.png') no-repeat;
     width: 60px;
     height: 60px;
-    top: 32%;
-    left: 13%
+    top: 23%;
+    left: 14%
 }
 .restaurant__title-food::after {
     background: url('../images/letter-img.png') no-repeat;
     width: 136px;
     height: 80px;
-    top: 14%;
+    top: 4%;
     left: 3%
 }
 .restaurant__title-mood::before,
@@ -547,7 +547,7 @@ h1 {
     background: url('../images/Mood.png') no-repeat;
     width: 55px;
     height: 55px;
-    top: 35%;
+    top: 27%;
     left: 32%;
     background-color: #fff
 }
